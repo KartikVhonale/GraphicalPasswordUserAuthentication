@@ -1,0 +1,14 @@
+.content-section{
+    display: flex;
+    flex-direction: row;
+    width: 90%;
+    /* background-color: red; */
+    align-self: center;
+    justify-content: space-between;
+}
+.one{
+
+}
+.pass{
+
+}
